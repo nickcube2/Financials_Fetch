@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FinancialBoardsFetch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RequestCommodities_Old" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://newz.hosted.inetbfa.com/other/quicklist/asxml/SILVER,GOLDI,PLAT</Value>
+    </Setting>
+    <Setting Name="RequestJSEIndice_Old" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://newz.hosted.inetbfa.com/other/quicklist/asxml/J200,J201,J203,J210,J211,J212</Value>
+    </Setting>
+    <Setting Name="RequestCurrencies_Old" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://newz.hosted.inetbfa.com/other/quicklist/asxml/USDZAR,GBPZAR,EURZAR,JPYZAR,AUDZAR,USDGBP</Value>
+    </Setting>
+    <Setting Name="RequestTop40_Old" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://newz.hosted.inetbfa.com/other/hosted_quicklist/ASXML/sname,trade,time,perc,points/I:J200</Value>
+    </Setting>
+    <Setting Name="RequestCommodities_New" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://df.marketdata.feeds.iress.com/feed/493/?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzZWNJRCI6MzA3LCJpYXQiOjE2MDM5NzY3NjYsImF1ZCI6ImlyZXNzLmNvLnphIiwiaXNzIjoiYWNjb3VudHMuaXJlc3MuY28uemEifQ.5ltKbdcsbWNrU6KA-JBmsLN7y2PTYBLIV79yBxxUToVdKutKBJNwIcjgFMC0-WFm6gZdg4xo8rvncNM7Tz_ebw</Value>
+    </Setting>
+    <Setting Name="RequestJSEIndice_New" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://df.marketdata.feeds.iress.com/feed/494/?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzZWNJRCI6MzA3LCJpYXQiOjE2MDM5ODAyODIsImF1ZCI6ImlyZXNzLmNvLnphIiwiaXNzIjoiYWNjb3VudHMuaXJlc3MuY28uemEifQ.GdfHDhbYLeEYCcltvj29bB9HUoR9JLysBd-cgCUqTAQ2SIJff8Fv0loEN7TkociVWzMjyLlW01H59KuITahtAw</Value>
+    </Setting>
+    <Setting Name="RequestCurrencies_New" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://df.marketdata.feeds.iress.com/feed/492/?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzZWNJRCI6MzA3LCJpYXQiOjE2MDM5NzU5MzAsImF1ZCI6ImlyZXNzLmNvLnphIiwiaXNzIjoiYWNjb3VudHMuaXJlc3MuY28uemEifQ.N2lbTAdl-YLtIVN1ObBTKGlwHQsHlNoZXuMGlnxowiU6TVkB7duBL65bAGxSwh4pyYHs8Oqf_Gppl_hcRkzWeQ</Value>
+    </Setting>
+    <Setting Name="RequestTop40_New" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://df.marketdata.feeds.iress.com/feed/806/?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzZWNJRCI6MzA3LCJpYXQiOjE2MjMyMzg0NjAsImF1ZCI6ImlyZXNzLmNvLnphIiwiaXNzIjoiYWNjb3VudHMuaXJlc3MuY28uemEifQ.Z3ewAt68nUIjmExlMsJYo2mhde0xpwYxd20yzYDns6KRPu3R3ErE-WJ_Vc_2-zYAe4Em704yfPI94rZJm0oqKw</Value>
+    </Setting>
+    <Setting Name="UseNewCommodities" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseNewCurrencies" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseNewJSEIndice" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UseNewTop40" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LastOpenTab" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SaveFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\DB_Source\Financial DB\</Value>
+    </Setting>
+    <Setting Name="MinimizeToTray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StartMinimized" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpdateOnStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartAutoUpdateOnStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="NudInterval" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="IntervalPeriodIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LastUpdateAt" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UpdateCommodities" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpdateCurrencies" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpdateJSEIndice" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UpdateTop40" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SwitchToActiveFetchTab" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SwitchBackToSettingsTab" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BringToForefront" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SaveLogs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SimulateTime" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LastSimulatedTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2020-07-31</Value>
+    </Setting>
+    <Setting Name="JSEUpdateStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:30:00</Value>
+    </Setting>
+    <Setting Name="JSEUpdateEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20:00:00</Value>
+    </Setting>
+    <Setting Name="LogEvents" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DBConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Developer1\source\repos\Newzroom-Afrika\DotNET\FinancialsFetch\AppDB\FetchResultDB.mdf;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
